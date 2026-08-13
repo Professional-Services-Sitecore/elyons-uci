@@ -73,6 +73,9 @@
   <ItemGroup>
     <Folder Include="App_Config\Include\" />
 	<Content Include="App_Config\Include\Foundation\ExperienceEdge.LanguageFallback.config" />
+	<Content Include="bin\HedgehogDevelopment.Razl.Service.dll" />
+    <Content Include="_CMP\RazlService.asmx" />
+    <Content Include="_CMP\web.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
