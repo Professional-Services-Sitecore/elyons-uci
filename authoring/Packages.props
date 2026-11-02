@@ -15,5 +15,7 @@
     <PackageReference Update="Sitecore.XmCloud.LayoutService" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.XmCloud.Assemblies" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.Assemblies.SitecoreHeadlessServicesServer" Version="19.*" />
+    <PackageReference Update="ContentMigrator.Abstractions" Version="1.0.0" />
+    <PackageReference Update="ContentMigrator.Connector.Sc" Version="1.0.0" />
   </ItemGroup>
 </Project>
